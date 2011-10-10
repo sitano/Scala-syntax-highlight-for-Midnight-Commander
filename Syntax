@@ -1,0 +1,2 @@
+file ..\*\\.(scala)$ Scala\sProgram
+include scala.syntax
