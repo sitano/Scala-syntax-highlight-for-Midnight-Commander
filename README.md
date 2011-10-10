@@ -1,8 +1,8 @@
-== Description
+# Description
 Syntax file for Scala language for highlighting in Midnight Commander editor
 
-== Installation
+# Installation
 Syntax files for MC are placed at /usr/share/mc/syntax
 
-# Merge Syntax file to your one
-# Copy scala.syntax to /usr/share/mc/syntax/scala.syntax
+1. Merge Syntax file to your one
+2. Copy scala.syntax to /usr/share/mc/syntax/scala.syntax
